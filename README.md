@@ -21,7 +21,7 @@
 
 ## 外觀
 
-![App Screenshot](Screenshot.png)
+![App Screenshot](img/streamlit.png)
 
 ---
 
